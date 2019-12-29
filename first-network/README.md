@@ -1,5 +1,11 @@
 ## Build Your First Network (BYFN)
 
+Ensure you have clone fabric as well. 
+'''
+get clone https://github.com/hyperledger/fabric.git
+'''
+
+
 The directions for using this are documented in the Hyperledger Fabric
 ["Build Your First Network"](http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html) tutorial.
 
